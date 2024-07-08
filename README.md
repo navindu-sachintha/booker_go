@@ -102,4 +102,4 @@ cd ../../
 |<kbd>PUT /book/:id</kbd>| Update Book name according to id
 |<kbd>DELETE /book</kbd>| Delete book by it's id
 
-`Since it using docker volume data will be not removed even after `
+`Since it using docker volume data will be not removed even after container removed`
